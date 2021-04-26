@@ -3,8 +3,8 @@ Zisoo Cruit is a developer friendly API for Visma Easycruit software. It makes c
 
 Vacancies can be created through Zisoo Cruit Portal.
  <p align="center">
-    <img src="https://assets.zisoo.nl/zisoo-cruit-portal-2.png" width="600px"/>
-    <img src="https://assets.zisoo.nl/zisoo-cruit-vacancy-template.png" width="400px"/>
+    <img src="https://assets.zisoo.nl/zisoo-cruit-portal-2.png" width="500px"/>
+    <img src="https://assets.zisoo.nl/zisoo-cruit-vacancy-template.png" width="450px"/>
 </p>
 
 
